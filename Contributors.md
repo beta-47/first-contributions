@@ -113,6 +113,7 @@
 - [bish singh](https://github.com/bishtrial)
 - [hackinganarchy](https://github.com/hacinganarchy)
 - [Nicole Spoto](https://github.com/nicolespoto)
+- [Kartik Shukla]
 - [Francisco](https://github.com/franciscozdo)
 - [Imran Alam](https://github.com/imran5555)
 - [Cátia Rodrigues](https://github.com/vegangirlthatcodes)
@@ -2204,6 +2205,7 @@ Timothy-Brian Gosalvez
 - [Mikella Green](https://github.com/mikellagreen)
 - [Minkush Jain](https://github.com/minkushjain)
 - [Michelle Yang](https://github.com/yangmichellea)
+K
 - [Iris Kwok](https://github.com/konpyuta)
 - [Jesse Roland](https://github.com/scronkfinkle)
 - [JWoods](https://github.com/lbxadmin)
